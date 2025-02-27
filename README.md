@@ -7,3 +7,5 @@ El objetivo principal de este análisis es extraer información valiosa sobre lo
 - Python 3.10+
 - Jupyter Notebook
 - Pandas
+
+- #### Este proyecto fue desarrollado como parte de una actividad académica.
