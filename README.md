@@ -1,4 +1,4 @@
-# Análisis de base de datos de una plataforma de libros SQL 📚
+# Análisis de base de datos de una plataforma de libros 📚
 
 ## 📌 Descripción
 Este proyecto analiza una base de datos relacional de una plataforma digital de libros para apoyar el desarrollo de un nuevo producto dirigido a lectores durante la pandemia de COVID-19, cuando el interés por la lectura aumentó considerablemente. La base de datos incluye información sobre libros, autores, editoriales, calificaciones y reseñas de usuarios.
